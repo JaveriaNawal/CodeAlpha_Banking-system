@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1723632439 source:c:\users\pmls\desktop\banking system\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<stdexcept>
+
